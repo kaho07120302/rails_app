@@ -1,0 +1,2 @@
+module SindanHelper
+end
